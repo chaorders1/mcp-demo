@@ -1,0 +1,35 @@
+{
+  "demographic_data": {
+    "total_population": 873965,
+    "registered_voters": 501834,
+    "ethnic_composition": {
+      "asian": 34.4,
+      "white": 39.8,
+      "hispanic": 15.2,
+      "african_american": 5.6,
+      "other": 5.0
+    }
+  },
+  "key_issues": [
+    {
+      "issue": "housing_affordability",
+      "priority_level": 9.5,
+      "public_concern_index": 9.2
+    },
+    {
+      "issue": "public_safety",
+      "priority_level": 8.8,
+      "public_concern_index": 8.5
+    },
+    {
+      "issue": "homelessness",
+      "priority_level": 9.0,
+      "public_concern_index": 8.9
+    },
+    {
+      "issue": "economic_recovery",
+      "priority_level": 8.5,
+      "public_concern_index": 8.2
+    }
+  ]
+}
