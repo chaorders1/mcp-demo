@@ -1,1 +1,16 @@
-IyBEZW1vIFRleHQgRmlsZQoKVGhpcyBpcyBhIGRlbW8gdGV4dCBmaWxlIGNyZWF0ZWQgdG8gZGVtb25zdHJhdGUgR2l0SHViIEFQSSBpbnRlZ3JhdGlvbi4KCiMjIEZlYXR1cmVzCi0gU2ltcGxlIG1hcmtkb3duIGZvcm1hdHRpbmcKLSBDcmVhdGVkIHZpYSBHaXRIdWIgQVBJCi0gRGVtb25zdHJhdGVzIGZpbGUgY3JlYXRpb24gYW5kIHB1c2ggY2FwYWJpbGl0aWVzCgojIyBOZXh0IFN0ZXBzCkZlZWwgZnJlZSB0bzoKMS4gTW9kaWZ5IHRoaXMgZmlsZQoyLiBBZGQgbW9yZSBjb250ZW50CjMuIENyZWF0ZSBuZXcgZmlsZXMKClRoYW5rIHlvdSBmb3IgdGVzdGluZyE=
+# Demo Text File
+
+This is a demo text file created to demonstrate GitHub API integration.
+
+## Features
+- Simple markdown formatting
+- Created via GitHub API
+- Demonstrates file creation and push capabilities
+
+## Next Steps
+Feel free to:
+1. Modify this file
+2. Add more content
+3. Create new files
+
+Thank you for testing!
