@@ -1,0 +1,22 @@
+{
+  "timeline": [
+    {
+      "date": "2024-11-05",
+      "event": "旧金山市长选举",
+      "significance": "high",
+      "category": "election"
+    },
+    {
+      "date": "2024-10-07",
+      "event": "提前投票开始",
+      "significance": "medium",
+      "category": "election"
+    },
+    {
+      "date": "2024-10-21",
+      "event": "选民登记截止",
+      "significance": "medium",
+      "category": "election"
+    }
+  ]
+}
