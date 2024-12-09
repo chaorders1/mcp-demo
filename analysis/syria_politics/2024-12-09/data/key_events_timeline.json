@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "date": "2024-12-08",
+      "event": "反对派武装进入大马士革",
+      "sources": ["CNN", "Reuters", "Al Jazeera"]
+    },
+    {
+      "date": "2024-12-08",
+      "event": "巴沙尔·阿萨德离开叙利亚",
+      "sources": ["Russian State Media", "Reuters"]
+    },
+    {
+      "date": "2024-12-08",
+      "event": "俄罗斯确认为阿萨德提供庇护",
+      "sources": ["TASS", "Reuters"]
+    },
+    {
+      "date": "2024-12-09",
+      "event": "联合国安理会召开紧急会议",
+      "sources": ["UN Press"]
+    }
+  ]
+}
