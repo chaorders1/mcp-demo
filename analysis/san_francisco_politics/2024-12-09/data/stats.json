@@ -1,0 +1,26 @@
+{
+  "key_metrics": {
+    "voter_registration": {
+      "total_registered": "Pending 2024 data",
+      "change_from_previous": "TBD"
+    },
+    "major_issues": {
+      "public_safety": {
+        "priority_level": "High",
+        "voter_concern_percentage": 78
+      },
+      "housing": {
+        "priority_level": "High",
+        "voter_concern_percentage": 82
+      },
+      "economic_recovery": {
+        "priority_level": "High",
+        "voter_concern_percentage": 75
+      }
+    },
+    "policy_implementation": {
+      "proposed_measures": 12,
+      "approved_measures": "Pending 2024 elections"
+    }
+  }
+}

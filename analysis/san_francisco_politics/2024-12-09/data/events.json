@@ -1,0 +1,28 @@
+{
+  "timeline": [
+    {
+      "date": "2024-01-02",
+      "event": "New ballot measures announced for police powers expansion",
+      "category": "Policy",
+      "source": "Axios San Francisco"
+    },
+    {
+      "date": "2023-12-28",
+      "event": "Major political groups begin positioning for 2024 elections",
+      "category": "Politics",
+      "source": "SF Standard"
+    },
+    {
+      "date": "2024-12-09",
+      "event": "Ongoing debates over drug crisis management strategies",
+      "category": "Public Safety",
+      "source": "Multiple Sources"
+    },
+    {
+      "date": "2024-12-09",
+      "event": "Housing development zoning discussions intensify",
+      "category": "Housing",
+      "source": "SF Chronicle"
+    }
+  ]
+}
