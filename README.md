@@ -1,3 +1,3 @@
 # MCP Demo
 
-A demonstration repository.
+A clean repository for MCP analysis demonstrations.
